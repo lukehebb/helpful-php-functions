@@ -1,0 +1,25 @@
+{
+  "name": "lukehebb/helpful-php-functions",
+  "description": "Just some helpful PHP functions",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "lukehebb",
+      "email": "me@lukehebb.uk"
+    }
+  ],
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "files": [
+      "src/helpers.php"
+    ]
+  },
+  "autoload-dev": {
+    "files": [
+      "src/helpers.php"
+    ]
+  }
+}
